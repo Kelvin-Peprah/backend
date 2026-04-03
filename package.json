@@ -1,0 +1,25 @@
+{
+  "name": "backend-coding",
+  "version": "1.0.0",
+  "description": "a tutorial for into to backend",
+  "homepage": "https://github.com/Kelvin-Peprah/backend#readme",
+  "bugs": {
+    "url": "https://github.com/Kelvin-Peprah/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelvin-Peprah/backend.git"
+  },
+  "license": "ISC",
+  "author": "Smartlink",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.3"
+  }
+}
